@@ -1,0 +1,32 @@
+div{
+    display: flex;
+    flex-direction: column;
+    background-color:aqua;
+    
+}
+
+img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(80, 84, 87);
+    font-size:40px;
+}
+
+p{
+    font-weight: bold;
+    font-size:20px;
+    max-width: 800px;
+    margin:5%;
+}
+
+a{
+    margin: 30px;
+    font-weight: bold;
+    font-size:30px;
+    text-decoration: none;
+    color: rgb(7, 121, 26);
+}

@@ -1,0 +1,18 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: cadetblue;
+}
+div{
+    background-color: rgb(78, 75, 70);
+    padding: 10px;
+}
+p{
+    font-size:20px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+
+strong{
+    color: rgb(91, 91, 240);
+}

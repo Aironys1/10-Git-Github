@@ -1,0 +1,22 @@
+Git é o sistema de controle de versão open source mais usado no mundo atualmente! 
+Ele é usado para controlar o histórico de alterações de arquivos e principalmente 
+de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de 
+trabalho, 
+segurança e desempenho.
+
+
+Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado 
+para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+
+O Git é fácil de aprender e tem uma pegada pequena com desempenho extremamente rápido . 
+Ele supera ferramentas SCM como Subversion, CVS, Perforce e ClearCase com recursos como 
+ramificação local barata , áreas de teste convenientes e vários fluxos de trabalho .
+
+
+1 - Fazer controle de versões. 
+2 -  Voltar as versões anteriores.
+3- As versões ficam salvas no seu computador.
+
+
+
+link do git:  https://git-scm.com/
